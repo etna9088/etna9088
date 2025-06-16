@@ -10,8 +10,8 @@
 ---
 ## 📌 Featured Projects
 
-### 🔹 [Car Price Prediction (R)] ...............
-Used regression modeling in R to predict used car prices based on mileage and fuel capacity. Includes exploratory data analysis and visual diagnostics.
+### 🔹 [Surviving Titanic (R)] 
+Analyzed the Titanic dataset in R to explore survival patterns and built logistic regression models, achieving improved accuracy by incorporating variables like age, class, and gender.
 
 ---
 
