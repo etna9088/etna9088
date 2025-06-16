@@ -10,7 +10,7 @@
 ---
 ## 📌 Featured Projects
 
-### 🔹 [Surviving Titanic (R)] 
+### 🔹 [Surviving Titanic (R)] (https://github.com/etna9088/surviving_titanic)
 Analyzed the Titanic dataset in R to explore survival patterns and built logistic regression models, achieving improved accuracy by incorporating variables like age, class, and gender.
 
 ---
