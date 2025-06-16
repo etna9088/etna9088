@@ -19,7 +19,7 @@ Built linear regression models in R to predict car prices using variables like m
 ### 🔹 [Bank Account Depletion Simulation (MATLAB)] (https://github.com/etna9088/week_12)
 Simulated a high-interest bank account in MATLAB to model balance changes with monthly interest, bimonthly withdrawals, and annual deposits. Used conditionals and loops to track account depletion and visualized the outcome with a time-series plot.
 
-### 🔹 [Area Panels (MATLAB)] (https://github.com/etna9088/area_panels)
+### 🔹 [Area Estimation Projects (MATLAB)] (https://github.com/etna9088/area_panels)
 Implemented numerical integration in MATLAB to estimate the area under different curves using the trapezoidal rule. Compared accuracy by varying the number of panels for both a parabolic function and the absolute sine function over a full cycle.
 
 ---
