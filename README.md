@@ -16,6 +16,9 @@ Analyzed the Titanic dataset in R to explore survival patterns and built logisti
 ### 🔹 [Car Prices (R)] (https://github.com/etna9088/car_prices)
 Built linear regression models in R to predict car prices using variables like mileage, engine size, brand, and car type. Improved model accuracy from 33% to 94% by incorporating categorical variables, and visualized trends with ggplot2 and interactive 3D plots.
 
+### 🔹 [Bank Account Depletion Simulation (MATLAB)] (https://github.com/etna9088/week_12)
+Simulated a high-interest bank account in MATLAB to model balance changes with monthly interest, bimonthly withdrawals, and annual deposits. Used conditionals and loops to track account depletion and visualized the outcome with a time-series plot.
+
 ---
 
 ## 🛠️ Skills & Tools
