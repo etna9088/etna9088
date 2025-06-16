@@ -13,6 +13,9 @@
 ### 🔹 [Surviving Titanic (R)] (https://github.com/etna9088/surviving_titanic)
 Analyzed the Titanic dataset in R to explore survival patterns and built logistic regression models, achieving improved accuracy by incorporating variables like age, class, and gender.
 
+### 🔹 [Car Prices (R)] (https://github.com/etna9088/car_prices)
+Built linear regression models in R to predict car prices using variables like mileage, engine size, brand, and car type. Improved model accuracy from 33% to 94% by incorporating categorical variables, and visualized trends with ggplot2 and interactive 3D plots.
+
 ---
 
 ## 🛠️ Skills & Tools
