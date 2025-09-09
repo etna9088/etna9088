@@ -36,5 +36,5 @@ Implemented numerical integration in MATLAB to estimate the area under different
 ## Contact
 * [etna9088@gmail.com](mailto:etna9088@gmail.com)
 * [LinkedIn Profile](https://www.linkedin.com/in/etna907)
-* [Resume]
+* [Resume] ([https://github.com/etna9088/Madina_Kanafina_Resume/blob/main/MK%209.9.25%20Updated%20Full%20Resume.docx])
 
