@@ -3,8 +3,8 @@
 
 🎓 Data Science student at George Mason University  
 💻 Skilled in **R**, **SQL**, and **MATLAB**  
-📊 Interested in analytics, modeling, and visual storytelling  
-🌍 Based in the DMV area | Open to internships and entry-level roles
+📊 Interested in analytics, statistical modeling, and data visualization  
+🌍 Based in the DMV area | Open to part-time, contract, and entry-level roles
 
 
 ---
@@ -28,13 +28,13 @@ Implemented numerical integration in MATLAB to estimate the area under different
 ## 🛠 Skills & Tools
 
 - **Languages:** R, SQL, MATLAB  
-- **Libraries/Tools:** ggplot2, dplyr, tidyr, StatKey, Rguroo  
-- **Tasks:** Data cleaning, visualization, modeling, communicating insights  
-- **Soft Skills:** Detail-oriented, organized, and good with collaboration
+- **Libraries/Tools:** `ggplot2`, `dplyr`, `tidyr`, `tidyverse`, StatKey, Rguroo, BigQuery, Excel (Advanced), Tableau, Git & GitHub
+- **Concepts:** Data Cleansing, Data Validation, Data Visualization, Regression Analysis, Statistical Modeling, Forecasting, Hypothesis Testing, Database Management
 
 ---
 
 ## Contact
+* [etna9088@gmail.com](mailto:etna9088@gmail.com)
+* [LinkedIn Profile](https://www.linkedin.com/in/etna907)
+* [Resume]
 
-- etna9088@gmail.com  
-- [LinkedIn](https://www.linkedin.com/in/etna907/)  
