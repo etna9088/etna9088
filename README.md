@@ -1,27 +1,24 @@
-## Hi, I'm Madina Kanafina 👋
+## Hi, I'm Madina
+
+Computational & Data Sciences student at George Mason University  
+Skilled in **R**, **SQL**, and **MATLAB**  
+Interested in analytics, statistical modeling, and data visualization  
+Based in the DMV area | Open to part-time, contract, and entry-level roles
 
 
-🎓 Data Science student at George Mason University  
-💻 Skilled in **R**, **SQL**, and **MATLAB**  
-📊 Interested in analytics, statistical modeling, and data visualization  
-🌍 Based in the DMV area | Open to part-time, contract, and entry-level roles
-
-
----
 ## Featured Projects
 
 
 
----
 
 
-## 🛠 Skills & Tools
 
-- **Languages:** R, SQL, MATLAB  
-- **Libraries/Tools:** `ggplot2`, `dplyr`, `tidyr`, `tidyverse`, StatKey, Rguroo, BigQuery, Excel (Advanced), Tableau, Git & GitHub
-- **Concepts:** Data Cleansing, Data Validation, Data Visualization, Regression Analysis, Statistical Modeling, Forecasting, Hypothesis Testing, Database Management
+## Skills & Tools
 
----
+**Languages:** R, SQL, MATLAB
+**Libraries/Tools:** `tidyverse`, `infer`, `modelr`, `broom`, `tibble`, StatKey, Rguroo, BigQuery, Excel (Advanced), Tableau, Git & GitHub
+**Concepts:** Data Cleansing, Data Validation, Data Visualization, Regression Analysis, Statistical Modeling, Forecasting, Hypothesis Testing, Database Management, Exploratory Data Analysis, Model Evaluation, Residual Diagnostics
+
 
 ## Contact
 * [etna9088@gmail.com](mailto:etna9088@gmail.com)
