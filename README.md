@@ -37,5 +37,5 @@ This project investigates the relationship between college costs and graduates' 
 ## Contact
 * [etna9088@gmail.com](mailto:etna9088@gmail.com)
 * [LinkedIn Profile](https://www.linkedin.com/in/etna907)
-* [Resume] ([https://github.com/etna9088/Madina_Kanafina_Resume/blob/main/MK%209.9.25%20Updated%20Full%20Resume.docx])
+* [Resume]([https://github.com/etna9088/Madina_Kanafina_Resume/blob/main/MK%209.9.25%20Updated%20Full%20Resume.docx])
 
