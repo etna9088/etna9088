@@ -20,6 +20,8 @@ This project investigates the relationship between college costs and graduates' 
 [View Project on GitHub](https://github.com/etna9088/college_cost_vs_earnings)
 
 
+
+
 #### 2. Used Car Price Prediction
 
 This project focuses on building a predictive model to accurately estimate the retail price of used General Motors (GM) cars. Using a dataset from the **2005 Central Edition of the Kelly Blue Book**, I performed **exploratory data analysis** and built a **linear regression model** to determine which vehicle features have the most significant impact on price. The analysis revealed that while mileage is a factor, a car's make and type are far more influential, with the final model explaining over **94% of the price variability**.
