@@ -50,7 +50,6 @@ This project is a stochastic simulation built in **MATLAB** that models the harv
 
 
 ## Contact
-* [etna9088@gmail.com](mailto:etna9088@gmail.com)
+* [mkanafin@gmu.edu](mailto:mkanafin@gmu.edu)
 * [LinkedIn Profile](https://www.linkedin.com/in/etna907)
-* [Resume](https://github.com/etna9088/Madina_Kanafina_Resume/blob/main/Madina_Kanafina_Resume_PDF.pdf)
 
