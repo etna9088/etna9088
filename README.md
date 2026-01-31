@@ -18,6 +18,7 @@ This project tackles a classic resource allocation problem in the farming sim *C
 * **Status:** *Finalizing report visuals and DAX measures.*
 [View Project on GitHub](https://github.com/etna9088/coral-island-analytics)
 
+---
 
 ### The Return on Investment of a College Degree
 This project investigates the relationship between college costs and graduates' median earnings 10 years after enrolling in college using data from the U.S. Department of Education. I used **exploratory data analysis** and a **linear regression model** to examine how the average cost of attendance predicts future earnings. The analysis revealed a statistically significant positive relationship, though the model's R-squared value of 34.4% suggests other factors heavily influence graduate earnings.
@@ -25,6 +26,7 @@ This project investigates the relationship between college costs and graduates' 
 * **Key Finding:** The analysis found a statistically significant positive relationship, suggesting that higher college costs are associated with higher graduate earnings, though cost alone does not fully explain the variation.
 [View Project on GitHub](https://github.com/etna9088/college_cost_vs_earnings)
 
+---
 
 ### Used Car Price Prediction
 This project focuses on building a predictive model to accurately estimate the retail price of used General Motors (GM) cars. Using a dataset from the **2005 Central Edition of the Kelly Blue Book**, I performed **exploratory data analysis** and built a **linear regression model** to determine which vehicle features have the most significant impact on price. The analysis revealed that while mileage is a factor, a car's make and type are far more influential, with the final model explaining over **94% of the price variability**.
@@ -32,6 +34,7 @@ This project focuses on building a predictive model to accurately estimate the r
 * **Key Findidng:** The project found that categorical features like a car's **make, type**, and **cylinder** are the most significant factors in determining its price, with a mixed model incorporating these variables achieving an R-squared value of 0.94.
 [View Project on GitHub](https://github.com/etna9088/car_prices)
 
+---
 
 ### Stochastic Wheatfield Harvest Yield Simulation
 This project is a stochastic simulation built in **MATLAB** that models the harvest yield of a wheat field over a 10-month growing season. The model incorporates user-defined variables and random weather conditions to generate a distribution of possible outcomes. The analysis of over 3,000 simulation runs revealed that the final harvest is not a single, predictable number but a range of outcomes driven by environmental uncertainty.
