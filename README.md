@@ -4,7 +4,7 @@ Computational & Data Sciences student at George Mason University Microdoft Certi
 * 📊 **Skilled in:** Power BI, R, SQL, and MATLAB
 * 💡 **Focus:** Turning complex datasets into actionable business (and gaming!) strategies
 * 📍 **Location:** DMV Area | Open to Internships, Contract, and Entry-Level Roles
-  Open to Relocation: Major areas across East Coast
+Open to Relocation: Major areas across East Coast
 
 
 
