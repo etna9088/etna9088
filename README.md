@@ -6,7 +6,16 @@ Computational & Data Sciences student at George Mason University Microdoft Certi
 * 📍 **Location:** DMV Area | Open to Internships, Contract, and Entry-Level Roles
 Open to Relocation: Major areas across East Coast
 
+---
 
+## Skills & Tools
+
+* **BI & Visualization:** **Microsoft Power BI (Certified)**, DAX, Data Modeling, Tableau, MS Excel (Power Query, PivotTables)
+* **Languages:** SQL, R, MATLAB
+* **Data Science:** Statistical Modeling, Machine Learning Fundamentals, Hypothesis Testing, Stochastic Simulation, Regression Analysis
+* **Data Ops:** BigQuery, Data Cleaning & Validation, Git/GitHub, Database Management
+
+---
 
 ## Featured Projects
 
@@ -41,15 +50,6 @@ This project is a stochastic simulation built in **MATLAB** that models the harv
 **Key Skills:** MATLAB, Stochastic Simulation, Statistical Analysis, Data Visualization, Predictive Modeling, Git & GitHub
 * **Key Finding:** The simulation demonstrated that in systems influenced by randomness, it is more valuable to predict the **range and probability of outcomes** than a single, fixed number. This is evidenced by a final harvest yield with a mean of **30,382 bushels** and a standard deviation of **9,544 bushels.**
 [View Project on GitHub](https://github.com/etna9088/matlab-wheatfield-simulation)
-
----
-
-## Skills & Tools
-
-* **BI & Visualization:** **Microsoft Power BI (Certified)**, DAX, Data Modeling, Tableau, MS Excel (Power Query, PivotTables)
-* **Languages:** SQL, R, MATLAB
-* **Data Science:** Statistical Modeling, Machine Learning Fundamentals, Hypothesis Testing, Stochastic Simulation, Regression Analysis
-* **Data Ops:** BigQuery, Data Cleaning & Validation, Git/GitHub, Database Management
 
 ---
 
