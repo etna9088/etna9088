@@ -18,7 +18,7 @@ Beyond academic data science, I bring years of hands-on experience in retail ope
 
 ### 1. Retail Sales & Profitability Report
 * **Tech Stack:** Google BigQuery (SQL), Power BI, DAX, Dimensional Modeling
-* **Summary:** Engineered an automated profit-tracking diagnostic engine from 400,000 raw retail transactions to isolate margin leaks. Identified specific product categories losing online margin to shipping costs, and flagged high-volume sales representatives artificially inflating revenue via excessive discount abuse. [View Project on GitHub](INSERT_LINK_HERE)
+* **Summary:** Engineered an automated profit-tracking diagnostic engine from 400,000 raw retail transactions to isolate margin leaks. Identified specific product categories losing online margin to shipping costs, and flagged high-volume sales representatives artificially inflating revenue via excessive discount abuse. [View Project on GitHub](https://github.com/etna9088/retail-sales-profitability-audit)
 
 ### 2. Coral Island Crop Analysis
 * **Tech Stack:** Power BI, DAX, Data Modeling, Manual Data Curation
