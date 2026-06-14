@@ -18,19 +18,19 @@ Beyond academic data science, I bring years of hands-on experience in retail ope
 
 ### 1. Retail Sales & Profitability Report
 * **Tech Stack:** Google BigQuery (SQL), Power BI, DAX, Dimensional Modeling
-* **Summary:** Engineered an automated profit-tracking diagnostic engine from 400,000 raw retail transactions to isolate margin leaks. Identified specific product categories losing online margin to shipping costs, and flagged high-volume sales representatives artificially inflating revenue via excessive discount abuse.
+* **Summary:** Engineered an automated profit-tracking diagnostic engine from 400,000 raw retail transactions to isolate margin leaks. Identified specific product categories losing online margin to shipping costs, and flagged high-volume sales representatives artificially inflating revenue via excessive discount abuse. [View Project on GitHub](INSERT_LINK_HERE)
 
 ### 2. Coral Island Crop Analysis
 * **Tech Stack:** Power BI, DAX, Data Modeling, Manual Data Curation
-* **Summary:** I am developing a custom report from v1.1 telemetry to tackle resource allocation and optimize gold, land, and stamina usage. The model tracks dynamic break-even points for capital assets and demonstrates that high-frequency regrowing crops provide essential early-game liquidity.
+* **Summary:** I am developing a custom report from v1.1 telemetry to tackle resource allocation and optimize gold, land, and stamina usage. The model tracks dynamic break-even points for capital assets and demonstrates that high-frequency regrowing crops provide essential early-game liquidity. [View Project on GitHub](https://github.com/etna9088/coral-island-analytics)
 
 ### 3. The Return on Investment of a College Degree
 * **Tech Stack:** R (`tidyverse`, `broom`, `infer`), Data Wrangling, Linear Regression, Exploratory Data Analysis
-* **Summary:** Investigated the relationship between college costs and graduates' median earnings using U.S. Department of Education data. Built a linear regression model revealing a statistically significant positive relationship between attendance costs and future earnings.
+* **Summary:** Investigated the relationship between college costs and graduates' median earnings using U.S. Department of Education data. Built a linear regression model revealing a statistically significant positive relationship between attendance costs and future earnings. [View Project on GitHub](https://github.com/etna9088/college_cost_vs_earnings)
 
 ### 4. Stochastic Wheatfield Harvest Yield Simulation
 * **Tech Stack:** MATLAB, Stochastic Simulation, Statistical Analysis, Predictive Modeling
-* **Summary:** Modeled the harvest yield of an agricultural asset over a 10-month growing season by incorporating user-defined variables and random weather conditions. Proved through 3,000 simulation runs that predicting the range and probability of outcomes is more valuable than estimating a single fixed number.
+* **Summary:** Modeled the harvest yield of an agricultural asset over a 10-month growing season by incorporating user-defined variables and random weather conditions. Proved through 3,000 simulation runs that predicting the range and probability of outcomes is more valuable than estimating a single fixed number. [View Project on GitHub](https://github.com/etna9088/matlab-wheatfield-simulation)
 
 ## 🌱 Current Status & Goals
 * 🎓 Pursuing a BS in Computer Science & Data Science at George Mason University (Expected May 2027).
