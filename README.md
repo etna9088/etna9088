@@ -1,40 +1,37 @@
-# Hi, I'm Madina
-**Data Analyst | MS Certified Power BI (PL-300) | Google Data Analytics Professional**
+# Madina Kanafina | MS Certified Power BI Data Analyst (PL-300) | Computational Data Sciences Senior
 
-Computational & Data Sciences student specializing in translating complex datasets into predictive data models and dynamic visual dashboards. Leveraging my Bachelor's in Business Administration, I apply rigorous data cleaning and validation techniques to streamline operations and drive revenue-focused business intelligence.
-
-## 💼 Retail & E-Commerce Expertise
-Beyond academic data science, I bring years of hands-on experience in retail operations, margin optimization, and inventory management:
-* **E-Commerce Operations:** Manage an independent reselling business utilizing a custom Notion relational database to track 80+ active SKUs. Monitor secondary market pricing to optimize profit margins (15-20%), generating $300,000+ in gross revenue.
-* **Luxury Retail Inventory:** Built a digital Excel database replacing manual logs to track 3,000 annual SKUs across 15 high-end Italian brands. Analyzed runway data to forecast seasonal demand and launched digital ads generating $10,000 in monthly revenue.
+Specializing in translating complex datasets into predictive data models and dynamic report pages. I apply rigorous data cleaning, financial modeling, and validation techniques to streamline operations and drive revenue-focused business intelligence.
 
 ## 🛠 Tech Stack
-* **Analytics & BI:** Power BI, Tableau, Advanced Excel (Power Query, PivotTables)
-* **Languages & Modeling:** SQL (BigQuery), R, MATLAB, DAX
-* **Data Science:** Statistical Modeling, Predictive Analytics, Regression Analysis, Stochastic Simulation
-* **Data Ops:** Data Cleaning & Validation, Git/GitHub, Relational Databases (Notion)
+*   **BI & Analytics:** Power BI, Tableau, Advanced Excel (PivotTables, Power Query)
+*   **Languages & Databases:** SQL, DAX, R, Google BigQuery, MATLAB
+*   **Tools & Version Control:** Git, GitHub, Notion
 
-## 🚀 Featured Portfolio
+## 📊 Featured Projects
 
-### 1. Retail Sales & Profitability Report
-* **Tech Stack:** Google BigQuery (SQL), Power BI, DAX, Dimensional Modeling
-* **Summary:** Engineered an automated profit-tracking diagnostic engine from 400,000 raw retail transactions to isolate margin leaks. Identified specific product categories losing online margin to shipping costs, and flagged high-volume sales representatives artificially inflating revenue via excessive discount abuse. [View Project on GitHub](https://github.com/etna9088/retail-sales-profitability-audit)
+### 📊 Retail CapEx & Inventory Operations Analysis (Simulation)
 
-### 2. Coral Island Crop Analysis
-* **Tech Stack:** Power BI, DAX, Data Modeling, Manual Data Curation
-* **Summary:** I am developing a custom report from v1.1 telemetry to tackle resource allocation and optimize gold, land, and stamina usage. The model tracks dynamic break-even points for capital assets and demonstrates that high-frequency regrowing crops provide essential early-game liquidity. [View Project on GitHub](https://github.com/etna9088/coral-island-analytics)
+**Tech Stack:** MS Power BI, DAX, Excel, Git
+**Focus:** Financial Modeling, CapEx Amortization, Inventory Liquidity
 
-### 3. The Return on Investment of a College Degree
-* **Tech Stack:** R (`tidyverse`, `broom`, `infer`), Data Wrangling, Linear Regression, Exploratory Data Analysis
-* **Summary:** Investigated the relationship between college costs and graduates' median earnings using U.S. Department of Education data. Built a linear regression model revealing a statistically significant positive relationship between attendance costs and future earnings. [View Project on GitHub](https://github.com/etna9088/college_cost_vs_earnings)
+An automated commercial pricing model and resource allocation dashboard engineered to optimize capital investments within a digital farming economy. By treating in-game mechanics as strict supply chain constraints, this project replaces operational guesswork with a rigorous, data-driven financial model.
 
-### 4. Stochastic Wheatfield Harvest Yield Simulation
-* **Tech Stack:** MATLAB, Stochastic Simulation, Statistical Analysis, Predictive Modeling
-* **Summary:** Modeled the harvest yield of an agricultural asset over a 10-month growing season by incorporating user-defined variables and random weather conditions. Proved through 3,000 simulation runs that predicting the range and probability of outcomes is more valuable than estimating a single fixed number. [View Project on GitHub](https://github.com/etna9088/matlab-wheatfield-simulation)
+- **Resolved Context Transition Errors:** Deployed dynamic DAX variables and nested conditional logic to accurately amortize initial CapEx across 91 distinct assets operating on a strict 28-day seasonal calendar.
+- **Maximized Capital Efficiency:** Engineered a risk-reward matrix proving that capping high-cost, long-term assets at 15% and reallocating the budget to fast-turning inventory compounded maximum portfolio returns up to 2060%.
+- **Modeled Cash Velocity:** Built a liquidity leaderboard isolating elite "cash engine" inventory (e.g., yielding $20.18/day) to guarantee positive daily cash flow and fund long-term growth.
 
-## 🌱 Current Status & Goals
-* 🎓 Pursuing a BS in Computer Science & Data Science at George Mason University (Expected May 2027).
-* 🎯 Targeting entry-level retail data analytics and inventory operations roles.
-* 📍 Based in Washington, DC | Open to relocation across major East Coast hubs (NY, NJ, MA, PA).
-* 📫 **Email:** [mkanafin31@gmail.com](mailto:mkanafin31@gmail.com) | **LinkedIn:** [Madina Kanafina](https://www.linkedin.com/in/etna907)
+👉 [View the Full Project & Report Here](https://github.com/etna9088/coral-island-analytics)
+
+### 📊 Global Commercial Operations & Margin Audit
+**Tech Stack:** Google BigQuery, SQL, MS Power BI, DAX
+**Focus:** Profitability Diagnostics, Data Normalization, Margin Compression
+
+Engineered a profit-tracking diagnostic engine from 400,000 raw retail transactions to isolate structural capital inefficiencies and margin compression that were masked by $28.5B in rapid top-line revenue growth.
+*   **Normalized & Deduplicated Data:** Ingested 400,000 raw multi-channel transactions into Google BigQuery, utilizing SQL CTEs and window functions to resolve "Star Schema Traps" and generate production-ready staging views.
+*   **Identified Revenue Inflation (Discount Abuse):** Engineered dynamic DAX iterator functions to map baseline costs, flagging top-line sales leaders (e.g., generating $5.74B in sales) who were artificially hitting volume quotas through excessive discounting (>15%).
+*   **Exposed Capital Inefficiency:** Calculated a total Gross Margin Return on Investment (GMROI) of 0.11, proving every dollar tied up in warehouse stock yielded only 11 cents in gross margin, prompting a strategic shift toward margin-based procurement and commission structures.
+👉 [View the Full Case Study & Reports Pages Here](https://github.com/etna9088/retail-sales-profitability-audit)
+
+## 📫 Connect with Me
+*   [LinkedIn](https://www.linkedin.com/in/etna907)
 
