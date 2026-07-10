@@ -9,18 +9,18 @@ Specializing in translating complex datasets into predictive data models and dyn
 
 ## 📊 Featured Projects
 
-### 📊 Retail CapEx & Inventory Operations Analysis (Simulation)
+### 📊 Retail CapEx & Inventory Operations Analysis
 
-**Tech Stack:** MS Power BI, DAX, Excel, Git
-**Focus:** Financial Modeling, CapEx Amortization, Inventory Liquidity
+**Tech Stack:** Power BI, DAX, Power Query (M), Excel
+**Focus:** SKU profitability, cash velocity, capital payback
 
-An automated commercial pricing model and resource allocation dashboard engineered to optimize capital investments within a digital farming economy. By treating in-game mechanics as strict supply chain constraints, this project replaces operational guesswork with a rigorous, data-driven financial model.
+A 3-year SKU-level profitability model across 74 assets and 12 selling seasons — star schema, class-aware DAX, and a disconnected 12-period timeline replacing standard Time Intelligence in a non-calendar seasonal model.
 
-- **Resolved Context Transition Errors:** Deployed dynamic DAX variables and nested conditional logic to accurately amortize initial CapEx across 91 distinct assets operating on a strict 28-day seasonal calendar.
-- **Maximized Capital Efficiency:** Engineered a risk-reward matrix proving that capping high-cost, long-term assets at 15% and reallocating the budget to fast-turning inventory compounded maximum portfolio returns up to 2060%.
-- **Modeled Cash Velocity:** Built a liquidity leaderboard isolating elite "cash engine" inventory (e.g., yielding $20.18/day) to guarantee positive daily cash flow and fund long-term growth.
+- Modeled daily cash velocity across the full catalog, isolating a ~95x spread between the fastest and slowest cash-positive SKUs ($17.11/day vs $0.18/day).
+- Engineered class-aware ROI and break-even logic across 4 asset classes, surfacing a 1,048% maximum 3-year ROI and exactly one structurally unprofitable SKU flagged for delisting.
+- Mapped capital payback on a 12-period cumulative curve: tree-class assets run Year-1 deficits, break even in Fall of Year 2, and lead all classes by Year 3 — full-catalog 3-year net position of $57,564.
 
-👉 [View the Full Project & Report Here](https://github.com/etna9088/coral-island-analytics)
+👉 [View the Full Project](https://github.com/etna9088/retail-capex-inventory-analysis)
 
 ### 📊 Global Commercial Operations & Margin Audit
 **Tech Stack:** Google BigQuery, SQL, MS Power BI, DAX
