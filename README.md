@@ -1,6 +1,6 @@
 # Madina Kanafina | MS Certified Power BI Data Analyst (PL-300) | Computational Data Sciences Senior
 
-Specializing in translating complex datasets into predictive data models and dynamic report pages. I apply rigorous data cleaning, financial modeling, and validation techniques to streamline operations and drive revenue-focused business intelligence.
+Retail analytics — inventory, pricing, and demand — built on BigQuery, SQL, Power BI, and DAX.
 
 ## 🛠 Tech Stack
 *   **BI & Analytics:** Power BI, Tableau, Advanced Excel (PivotTables, Power Query)
@@ -9,8 +9,19 @@ Specializing in translating complex datasets into predictive data models and dyn
 
 ## 📊 Featured Projects
 
-### 📊 Retail CapEx & Inventory Operations Analysis
+### 👟 StockX Sneaker Resale Analytics
+**Tech Stack:** Google BigQuery, SQL, Power BI, DAX
+**Focus:** Exit timing, size-curve scarcity, demand risk scoring
 
+99,956 real StockX transactions (2017–2019) across two brands running opposite playbooks — scarcity vs volume — modeled through a BigQuery staging pipeline and a Power BI star schema, with every headline number reconciled across three independent paths (Python, SQL, report).
+
+- Diagnosed a uniform whitespace defect silently breaking 72% of brand joins, and validated the pipeline end-to-end with five checks plus multi-path reconciliation of all published figures.
+- Showed the market's apparent premium collapse after year one is a composition artifact: split by brand, aged Off-Whites appreciate to a 578% median premium while Yeezys decay to 31% — making exit timing a brand-specific decision.
+- Scored all 50 models on price volatility (CV) vs premium to map hero SKUs and demand risk, and quantified size-curve scarcity: tail sizes carry 3–4x core-size premiums, with size 15 running 100% Off-White.
+
+👉 [View the Full Project](https://github.com/etna9088/sneaker-resale-analytics)
+
+### 📊 Retail CapEx & Inventory Operations Analysis
 **Tech Stack:** Power BI, DAX, Power Query (M), Excel
 **Focus:** SKU profitability, cash velocity, capital payback
 
@@ -22,16 +33,5 @@ A 3-year SKU-level profitability model across 74 assets and 12 selling seasons �
 
 👉 [View the Full Project](https://github.com/etna9088/retail-capex-inventory-analysis)
 
-### 📊 Global Commercial Operations & Margin Audit
-**Tech Stack:** Google BigQuery, SQL, MS Power BI, DAX
-**Focus:** Profitability Diagnostics, Data Normalization, Margin Compression
-
-Engineered a profit-tracking diagnostic engine from 400,000 raw retail transactions to isolate structural capital inefficiencies and margin compression that were masked by $28.5B in rapid top-line revenue growth.
-*   **Normalized & Deduplicated Data:** Ingested 400,000 raw multi-channel transactions into Google BigQuery, utilizing SQL CTEs and window functions to resolve "Star Schema Traps" and generate production-ready staging views.
-*   **Identified Revenue Inflation (Discount Abuse):** Engineered dynamic DAX iterator functions to map baseline costs, flagging top-line sales leaders (e.g., generating $5.74B in sales) who were artificially hitting volume quotas through excessive discounting (>15%).
-*   **Exposed Capital Inefficiency:** Calculated a total Gross Margin Return on Investment (GMROI) of 0.11, proving every dollar tied up in warehouse stock yielded only 11 cents in gross margin, prompting a strategic shift toward margin-based procurement and commission structures.
-👉 [View the Full Case Study & Reports Pages Here](https://github.com/etna9088/retail-sales-profitability-audit)
-
 ## 📫 Connect with Me
 *   [LinkedIn](https://www.linkedin.com/in/etna907)
-
