@@ -1,4 +1,4 @@
-# Madina Kanafina | MS Certified Power BI Data Analyst (PL-300) | Computational Data Sciences Senior
+# Madina Kanafina | Microsoft Certified Power BI Data Analyst (PL-300) | Computational and Data Sciences Senior
 
 Retail analytics — inventory, pricing, and demand — built on BigQuery, SQL, Power BI, and DAX.
 
@@ -19,7 +19,7 @@ Retail analytics — inventory, pricing, and demand — built on BigQuery, SQL, 
 - Showed the market's apparent premium collapse after year one is a composition artifact: split by brand, aged Off-Whites appreciate to a 578% median premium while Yeezys decay to 31% — making exit timing a brand-specific decision.
 - Scored all 50 models on price volatility (CV) vs premium to map hero SKUs and demand risk, and quantified size-curve scarcity: tail sizes carry 3–4x core-size premiums, with size 15 running 100% Off-White.
 
-👉 [View the Full Project](https://github.com/etna9088/sneaker-resale-analytics)
+👉 [View the Full Project](https://github.com/etna9088/stockx-resale-analytics)
 
 ### 📊 Retail CapEx & Inventory Operations Analysis
 **Tech Stack:** Power BI, DAX, Power Query (M), Excel
