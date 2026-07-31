@@ -33,5 +33,10 @@ A 3-year SKU-level profitability model across 74 assets and 12 selling seasons �
 
 👉 [View the Full Project](https://github.com/etna9088/retail-capex-inventory-analysis)
 
+## 🎓 Academic Projects
+- **[College Cost vs. Earnings](https://github.com/etna9088/college_cost_vs_earnings)** — R linear regression on U.S. Dept. of Education data; every $1 in tuition correlated with $4.59 in 10-year earnings (R² = 0.344)
+- **[Used Car Price Valuation](https://github.com/etna9088/car_prices)** — R regression comparison; improved R² from 0.33 to 0.94 by adding categorical features
+- **[Wheatfield Harvest Simulation](https://github.com/etna9088/matlab-wheatfield-simulation)** — MATLAB stochastic simulation, 3,000 runs, modeling yield variability under random weather
+
 ## 📫 Connect with Me
 *   [LinkedIn](https://www.linkedin.com/in/etna907)
