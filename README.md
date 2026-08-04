@@ -1,9 +1,10 @@
-# Madina Kanafina | Microsoft Certified Power BI Data Analyst (PL-300) | Computational and Data Sciences Senior
+# Madina Kanafina | Microsoft Certified Power BI Data Analyst (PL-300) | B.S. Computational and Data Sciences in progress — George Mason University | Inventory & Operations Coordinator
 
-Retail analytics — inventory, pricing, and demand — built on BigQuery, SQL, Power BI, and DAX.
+Inventory and operations analytics — stock, pricing, demand, and reporting. Retail, supply chain, wholesale distribution, and manufacturing — built on BigQuery, SQL, Power BI, and DAX.
 
-## 🛠 Tech Stack
-*   **BI & Analytics:** Power BI, Tableau, Advanced Excel (PivotTables, Power Query)
+## 🛠 Tech Stack9
+
+*   **BI & Analytics:** Power BI, Excel, Power Query (M)
 *   **Languages & Databases:** SQL, DAX, R, Google BigQuery, MATLAB
 *   **Tools & Version Control:** Git, GitHub, Notion
 
@@ -13,7 +14,7 @@ Retail analytics — inventory, pricing, and demand — built on BigQuery, SQL, 
 **Tech Stack:** Google BigQuery, SQL, Power BI, DAX
 **Focus:** Exit timing, size-curve scarcity, demand risk scoring
 
-99,956 real StockX transactions (2017–2019) across two brands running opposite playbooks — scarcity vs volume — modeled through a BigQuery staging pipeline and a Power BI star schema, with every headline number reconciled across three independent paths (Python, SQL, report).
+99,956 real StockX transactions (2017–2019) across two brands running opposite playbooks — scarcity vs volume — modeled through a BigQuery staging pipeline and a Power BI star schema, with every headline number reconciled across three independent paths (CSV profile, SQL, report).
 
 - Diagnosed a uniform whitespace defect silently breaking 72% of brand joins, and validated the pipeline end-to-end with five checks plus multi-path reconciliation of all published figures.
 - Showed the market's apparent premium collapse after year one is a composition artifact: split by brand, aged Off-Whites appreciate to a 578% median premium while Yeezys decay to 31% — making exit timing a brand-specific decision.
