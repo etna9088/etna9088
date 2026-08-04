@@ -2,7 +2,7 @@
 
 Inventory and operations analytics — stock, pricing, demand, and reporting. Retail, supply chain, wholesale distribution, and manufacturing — built on BigQuery, SQL, Power BI, and DAX.
 
-## 🛠 Tech Stack9
+## 🛠 Tech Stack
 
 *   **BI & Analytics:** Power BI, Excel, Power Query (M)
 *   **Languages & Databases:** SQL, DAX, R, Google BigQuery, MATLAB
