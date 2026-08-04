@@ -1,4 +1,4 @@
-# Madina Kanafina | Microsoft Certified Power BI Data Analyst (PL-300) | B.S. Computational and Data Sciences in progress — George Mason University | Inventory & Operations Coordinator
+# Madina Kanafina | Microsoft Certified Power BI Data Analyst Associate (PL-300) | B.S. Computational and Data Sciences in progress — George Mason University | Inventory & Operations Coordinator
 
 Inventory and operations analytics — stock, pricing, demand, and reporting. Retail, supply chain, wholesale distribution, and manufacturing — built on BigQuery, SQL, Power BI, and DAX.
 
