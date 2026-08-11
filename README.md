@@ -40,4 +40,4 @@ A 3-year SKU-level profitability model across 74 assets and 12 selling seasons �
 - **[Wheatfield Harvest Simulation](https://github.com/etna9088/matlab-wheatfield-simulation)** — MATLAB stochastic simulation, 3,000 runs, modeling yield variability under random weather
 
 ## 📫 Connect with Me
-*   [LinkedIn](https://www.linkedin.com/in/etna907)
+*   [LinkedIn](https://www.linkedin.com/in/etna9088)
