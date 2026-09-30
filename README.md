@@ -14,7 +14,7 @@ Inventory and operations analytics — stock, pricing, demand, and reporting. Re
 **Tech Stack:** Google BigQuery, SQL, Power BI, DAX
 **Focus:** Exit timing, size-curve scarcity, demand risk scoring
 
-99,956 real StockX transactions (2017–2019) across two brands running opposite playbooks — scarcity vs volume — modeled through a BigQuery staging pipeline and a Power BI star schema, with every headline number reconciled across three independent paths (CSV profile, SQL, report).
+99,956 public StockX resale transactions (2017–2019) across two brands running opposite playbooks — scarcity vs volume — modeled through a BigQuery staging pipeline and a Power BI star schema, with every headline number reconciled across three independent paths (CSV profile, SQL, report).
 
 - Diagnosed a uniform whitespace defect silently breaking 72% of brand joins, and validated the pipeline end-to-end with five checks plus multi-path reconciliation of all published figures.
 - Showed the market's apparent premium collapse after year one is a composition artifact: split by brand, aged Off-Whites appreciate to a 578% median premium while Yeezys decay to 31% — making exit timing a brand-specific decision.
